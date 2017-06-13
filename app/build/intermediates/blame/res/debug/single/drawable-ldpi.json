@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/km/ws/wonky-android-calc/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Users/km/ws/wonky-android-calc/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/km/ws/ca-an-pr/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Users/km/ws/ca-an-pr/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

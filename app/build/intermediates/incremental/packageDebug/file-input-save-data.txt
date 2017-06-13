@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Fri Jun 09 18:05:30 CEST 2017
+2.base=/Users/km/ws/ca-an-pr/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/km/ws/ca-an-pr/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/km/ws/ca-an-pr/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/km/ws/ca-an-pr/app/build/intermediates/res/resources-debug.ap_/res/layout/splash.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/km/ws/ca-an-pr/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/km/ws/ca-an-pr/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_54a430e68c3fbf27035278f86d9a1441e27846c5/classes.dex
+7.set=DEX
+count=8
+0.file=/Users/km/ws/ca-an-pr/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a8ab435dbefe51c64103411fc06e5076810b6c56/classes.dex
+5.base=/Users/km/ws/ca-an-pr/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/km/ws/ca-an-pr/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/km/ws/ca-an-pr/app/build/intermediates/res/resources-debug.ap_/res/raw/music.mp3
+1.set=ANDROID_RESOURCE
+7.base=/Users/km/ws/ca-an-pr/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_54a430e68c3fbf27035278f86d9a1441e27846c5
+2.file=/Users/km/ws/ca-an-pr/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=/Users/km/ws/ca-an-pr/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a8ab435dbefe51c64103411fc06e5076810b6c56
+3.file=/Users/km/ws/ca-an-pr/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/Users/km/ws/ca-an-pr/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/km/ws/ca-an-pr/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+0.set=DEX
